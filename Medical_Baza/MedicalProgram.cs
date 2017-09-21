@@ -23,5 +23,17 @@ namespace Medical_Baza
             this.Hide();
             myForm.Show();
         }
+
+        private void Doctor_Click(object sender, EventArgs e)
+        {
+            Doctor myForm = new Doctor();
+            this.Hide();
+            myForm.Show();
+        }
+
+        private void Nurse_Click_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -63,6 +63,12 @@
     <Compile Include="Department_Form.Designer.cs">
       <DependentUpon>Department_Form.cs</DependentUpon>
     </Compile>
+    <Compile Include="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditDepartment.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +97,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Department_Form.resx">
       <DependentUpon>Department_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EditDepartment.resx">
       <DependentUpon>EditDepartment.cs</DependentUpon>

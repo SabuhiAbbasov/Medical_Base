@@ -13,3 +13,4 @@ C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.Me
 C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.AddDepartment.resources
 C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.DeleteDepartment.resources
 C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.EditDepartment.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.Doctor.resources
