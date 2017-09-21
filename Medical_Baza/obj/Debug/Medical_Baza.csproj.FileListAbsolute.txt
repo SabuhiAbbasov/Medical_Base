@@ -1,0 +1,15 @@
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.csprojResolveAssemblyReference.cache
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.UserPassword.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.Properties.Resources.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.csproj.GenerateResource.Cache
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.csproj.CoreCompileInputs.cache
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\bin\Debug\Medical_Baza.exe.config
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\bin\Debug\Medical_Baza.exe
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\bin\Debug\Medical_Baza.pdb
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.exe
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.pdb
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.Department_Form.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.MedicalProgram.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.AddDepartment.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.DeleteDepartment.resources
+C:\Users\sebuhi\source\repos\Medical_Baza\Medical_Baza\obj\Debug\Medical_Baza.EditDepartment.resources
